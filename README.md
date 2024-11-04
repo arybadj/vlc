@@ -34,7 +34,7 @@ VLC is available for the following platforms:
 - [BSD] and affiliated
 - [Android] *(4.2 and later)*, including Android TV and Android Auto
 - [iOS] *(9 and later)*, including AppleTV and iPadOS
-- Haiku, OS/2 and a few others.
+- Haiku, OS/2 and a few others. aryas
 
 [Windows]: https://www.videolan.org/vlc/download-windows.html
 [macOS]: https://www.videolan.org/vlc/download-macosx.html
